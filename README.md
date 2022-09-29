@@ -16,25 +16,29 @@
 - Disadvantages of React
 - What is Component?
 - Props and State.
-- React Controlled Vs. Uncontrolled Component
 - Virtual Dom vs Real Dom
-- JSX
-- Conditional Rendering
-#### Day 2
 
+#### Day 2
 - Create React App
 - NPM (Node Package Manager)
 - Functional Components with Practical
 - Class Components with Practical
-- Component Life Cycle
-- Basic Hooks
 
- #### Day 3
+#### Day 3
+- JSX
+- Conditional Rendering
+- Component Life Cycle
+-  React Controlled Vs. Uncontrolled Component
+- Basic Hooks
+ #### Day 4
+- practice all topics
+
+ #### Day 5
 - Create React App
   - TODO Application
 
 ### Advanced Topics
-#### Day 4
+#### Day 6
 - High Order Components (HOC)
 - Common Hooks
    - useCallback
@@ -43,17 +47,18 @@
    - useReducer
    - useContext
 - React Router
- #### Day 5
+ #### Day 7
 - React Context
 - React Flux Concept
 - Forms
- #### Day 6
+ #### Day 8
+### json dummy data api - https://jsonplaceholder.typicode.com/users 
 - Api Calls
     - axios
     - Fetch
- #### Day 7
+ #### Day 9
 - Redux
- #### Day 8
+ #### Day 10
 - Make React Application
 
 ## Installation and Setup
